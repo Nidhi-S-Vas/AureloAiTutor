@@ -1,4 +1,4 @@
-#Aurelo AI Tutor
+**Aurelo AI Tutor**
 
 Aurelo AI Tutor is an AI-based learning tool that allows users to upload a PDF and receive summaries, MCQs, explanations, and answers to questions.
 The project uses a simple custom Retrieval-Augmented Generation (RAG) approach.
