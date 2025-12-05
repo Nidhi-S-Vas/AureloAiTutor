@@ -1,0 +1,18 @@
+ # Python virtual environments
+.venv/
+venv/
+env/
+
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+
+# Chroma DB storage (if you use it)
+chroma_store/
+
+# Environment files
+.env
+*.env
+
